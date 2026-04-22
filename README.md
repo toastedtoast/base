@@ -1,2 +1,2 @@
-# hub
-Central outcomes hub — issues and tracking for all projects
+# Base
+Central outcomes base — issues and tracking for all projects
